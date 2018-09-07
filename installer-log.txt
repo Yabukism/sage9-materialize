@@ -1,0 +1,91 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.8
+* STEP-1 START @ 03:59:21
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	7.0.3 | SAPI: fpm-fcgi
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		nginx/1.10.1
+DOC ROOT:	/app/public
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://sekainorekisi.dev/installer.php
+--------------------------------------
+POST DATA
+--------------------------------------
+Array
+(
+    [accpet-warnings] => on
+    [action_ajax] => 1
+    [action_step] => 1
+    [archive_engine] => manual
+    [archive_filetime] => current
+    [archive_name] => 20170421_e4b896e7958ce381aee6adb4e58fb2e_48dd5aa5a66620e86669170606033937_archive.zip
+    [dbcharset] => utf8
+    [dbcollate] => utf8_general_ci
+    [dbhost] => 
+    [dbname] => 
+    [dbport] => 3306
+    [dbuser] => 
+    [logging] => 3
+)
+
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	20170421_e4b896e7958ce381aee6adb4e58fb2e_48dd5aa5a66620e86669170606033937_archive.zip
+SIZE:	17.36MB
+ZIP:	Enabled (ZipArchive Support)
+
+** PACKAGE EXTRACTION IS IN MANUAL MODE ** 
+
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.170606035921.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 03:59:21 - RUNTIME: 0.0164 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 04:04:50
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+--------------------------------------
+POST DATA
+--------------------------------------
+Array
+(
+    [action_ajax] => 2
+    [action_step] => 2
+    [archive_name] => 20170421_e4b896e7958ce381aee6adb4e58fb2e_48dd5aa5a66620e86669170606033937_archive.zip
+    [cache_path] => 
+    [cache_wp] => 
+    [dbaction] => empty
+    [dbcharset] => utf8
+    [dbcollate] => utf8_general_ci
+    [dbhost] => localhost
+    [dbmysqlmode] => DEFAULT
+    [dbmysqlmode_opts] => 
+    [dbname] => local
+    [dbnbsp] => 
+    [dbport] => 3306
+    [dbuser] => root
+    [logging] => 3
+    [ssl_admin] => 
+    [ssl_login] => 
+)
+
+
+INSTALLER ERROR:
+Unable to read the database.sql file from the archive.  Please check these items: 
+1. Validate permissions and/or group-owner rights on these items: 
+ - File: database.sql 
+ - Directory: [/app/public] 
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-trouble-055-q 
+2. Validate the database.sql file exists and is in the root of the archive.zip file 
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-installer-020-q 
+

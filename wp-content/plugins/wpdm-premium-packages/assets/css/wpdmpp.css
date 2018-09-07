@@ -1,0 +1,34 @@
+.wpdmpp-license-select{
+    margin: 10px 0 20px;
+}
+.gigs-heading,
+.wpdmpp-license-select .license-heading{
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+h3.wpdmpp-product-price{
+    font-weight: 900;
+}
+.cart-total-final.btn{
+    background: transparent;
+}
+.list-group-item.eden-checkbox.premium-file > span {
+    margin-top: 5px;
+}
+.input-group.input-group-asyoupay{
+    width: 230px;
+}
+.w3eden .min-price-note{
+    font-size: 11px;
+    margin-bottom: 10px;
+}
+.w3eden .gigs-body{
+    padding-bottom: 10px;
+}
+.w3eden .cart-total-final .badge{
+    padding: 0 10px;
+    border-radius: 2px;
+    line-height: 25px;
+    height: 25px;
+    background: #30b570;
+}

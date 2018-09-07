@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plf\n"
+"POT-Creation-Date: 2017-05-11 10:39+0900\n"
+"PO-Revision-Date: 2017-05-11 10:40+0900\n"
+"Last-Translator: Yasunari Enomoto <enomoto@celtislab.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#. Description of the plugin/theme
+msgid "Dynamically activate the selected plugins for each page. Response will be faster by filtering plugins."
+msgstr ""
+
+#: ../plugin-load-filter.php:228
+msgid "Plugin Load Filter"
+msgstr ""
+
+#: ../plugin-load-filter.php:327
+msgid ""
+"There are invalid characters in AMP/URL Keyword. Use characters include "
+"Alphanumeric, Hyphens, Underscores."
+msgstr ""
+
+#: ../plugin-load-filter.php:444 ../plugin-load-filter.php:572
+#: ../plugin-load-filter.php:768
+msgid "Plugins"
+msgstr ""
+
+#: ../plugin-load-filter.php:445
+msgid "Normal Load"
+msgstr ""
+
+#: ../plugin-load-filter.php:446
+msgid "Admin Filter"
+msgstr ""
+
+#: ../plugin-load-filter.php:447
+msgid "Page Filter"
+msgstr ""
+
+#: ../plugin-load-filter.php:497
+msgid "Plugins to be used only in admin mode."
+msgstr ""
+
+#: ../plugin-load-filter.php:500
+msgid "Plugins for selecting whether to activate each Page type or Post."
+msgstr ""
+
+#: ../plugin-load-filter.php:501
+msgid ""
+"Selected page filter plugins are once blocked, but is activated by \"Page "
+"filter Activation\" setting."
+msgstr ""
+
+#: ../plugin-load-filter.php:503
+msgid "Exclude Post Format Type"
+msgstr ""
+
+#: ../plugin-load-filter.php:504
+msgid ""
+"Choose Post Format Type you are not using. To exclude from Page Filter item "
+"subject."
+msgstr ""
+
+#: ../plugin-load-filter.php:519
+msgid "AMP / URL Page filter (Beta Test)"
+msgstr ""
+
+#: ../plugin-load-filter.php:520
+msgid ""
+"Setting the keyword enables the filter. [Valid characters: alphanumeric "
+"characters, hyphens (-), underscores (_)]"
+msgstr ""
+
+#: ../plugin-load-filter.php:521
+msgid ""
+"AMP / URL page judgment is done from REQUEST URI with regular expressions "
+"including setting keyword.  <code>(/|&|\\.|\\?)keyword(/|&|=|\\.|$)</code>"
+msgstr ""
+
+#: ../plugin-load-filter.php:523
+msgid "*AMP page display requires AMP plugin or theme."
+msgstr ""
+
+#: ../plugin-load-filter.php:527
+msgid "AMP keyword (In many cases, it is identified with \"amp\")"
+msgstr ""
+
+#: ../plugin-load-filter.php:527
+msgid "URL filter keyword-1"
+msgstr ""
+
+#: ../plugin-load-filter.php:527
+msgid "URL filter keyword-2"
+msgstr ""
+
+#: ../plugin-load-filter.php:573 ../plugin-load-filter.php:769
+msgid "Desktop Device"
+msgstr ""
+
+#: ../plugin-load-filter.php:574 ../plugin-load-filter.php:770
+msgid "Mobile Device"
+msgstr ""
+
+#: ../plugin-load-filter.php:575
+msgid "Home/Front-page"
+msgstr ""
+
+#: ../plugin-load-filter.php:576
+msgid "Archive page"
+msgstr ""
+
+#: ../plugin-load-filter.php:577
+msgid "Search page"
+msgstr ""
+
+#: ../plugin-load-filter.php:578
+msgid "Attachment page"
+msgstr ""
+
+#: ../plugin-load-filter.php:579
+msgid "Page"
+msgstr ""
+
+#: ../plugin-load-filter.php:580 ../plugin-load-filter.php:593
+msgid "Post : "
+msgstr ""
+
+#: ../plugin-load-filter.php:580
+msgid "Standard"
+msgstr ""
+
+#: ../plugin-load-filter.php:599
+msgid "WordPress Embed Content Card (API)"
+msgstr ""
+
+#: ../plugin-load-filter.php:612
+msgid "Custom Post : "
+msgstr ""
+
+#: ../plugin-load-filter.php:675
+msgid "Plugin Load Filter Settings\\nClick OK to clear it."
+msgstr ""
+
+#: ../plugin-load-filter.php:677
+msgid "Plugin Load Filter Settings"
+msgstr ""
+
+#: ../plugin-load-filter.php:681
+msgid "Filter Registration"
+msgstr ""
+
+#: ../plugin-load-filter.php:682
+msgid "Page Filter Activation"
+msgstr ""
+
+#: ../plugin-load-filter.php:689 ../plugin-load-filter.php:704
+msgid "Clear"
+msgstr ""
+
+#: ../plugin-load-filter.php:690
+msgid "Filter Entry &raquo;"
+msgstr ""
+
+#: ../plugin-load-filter.php:700
+msgid ""
+"Select plugins to be activated for each page type by clicking on <span class="
+"\"dashicons dashicons-admin-plugins\"></span> mark from \"page filter\" "
+"registered plugins."
+msgstr ""
+
+#: ../plugin-load-filter.php:701
+msgid ""
+"You can also select plugins to activate from Post/Page content editing "
+"screen."
+msgstr ""
+
+#: ../plugin-load-filter.php:705
+msgid "Activate Plugin Entry &raquo;"
+msgstr ""
+
+#: ../plugin-load-filter.php:712 ../plugin-load-filter.php:764
+msgid "Page Filter is not registered"
+msgstr ""
+
+#: ../plugin-load-filter.php:728
+msgid "Page Filter Plugin"
+msgstr ""
+
+#: ../plugin-load-filter.php:823
+msgid "Not Use"
+msgstr ""
+
+#: ../plugin-load-filter.php:824
+msgid "Activate Plugins"
+msgstr ""
+
+#: ../plugin-load-filter.php:828
+msgid "Save"
+msgstr ""

@@ -1,0 +1,56 @@
+.wpeden .panel .panel-heading .Icons{
+	/*float:right;*/
+	/*background:#769F7B;*/
+	position:absolute;
+	right:1.5em;
+	top:0.4em;
+	/*display:none;*/
+	/*padding:6px 6px 6px 15px;*/
+	}
+
+.wpeden .panel .panel-heading .Icons a{cursor:pointer;}
+
+.wpeden .panel .panel-heading .Icons a.box_tab_report{
+	cursor:pointer;
+	text-align:left;
+	text-indent:-9999px;
+	outline:none;
+	}
+
+.wpeden .panel .panel-heading .Icons a.box_tab_report.active{
+	cursor:pointer;
+	}
+	
+.Icons .Table, .BarChart, .PieChart, .LineChart{
+	background-image:url(graph-icons.png) !important;
+	background-repeat:no-repeat !important;
+	background-position:0 0 !important;
+	display:block;
+	width:39px;
+	height:31px;
+	float:left;
+	-webkit-transition:all .3s;
+	-moz-transition:all .3s;
+	-ms-transition:all .3s;
+	-o-transition:all .3s;
+	transition:all .3s;
+	}
+	
+.Icons .BarChart{background-position:-39px 0 !important;}
+.Icons .PieChart{background-position:-78px 0 !important;}
+.Icons .LineChart{background-position:-117px 0 !important;}
+	
+.Icons .Table:hover, .Icons .BarChart:hover, .Icons .PieChart:hover, .Icons .LineChart:hover{
+	-webkit-transition:all .3s;
+	-moz-transition:all .3s;
+	-ms-transition:all .3s;
+	-o-transition:all .3s;
+	transition:all .3s;
+	}
+
+.Icons .Table:hover, .Icons .Table.active{background-position:0px -31px !important;}
+.Icons .BarChart:hover, .Icons .BarChart.active{background-position:-39px -31px  !important;}
+.Icons .PieChart:hover, .Icons .PieChart.active{background-position:-78px -31px  !important;}
+.Icons .LineChart:hover, .Icons .LineChart.active{background-position:-117px -31px  !important;}
+
+#myTab li.active a{ background: #F1F1F1; }

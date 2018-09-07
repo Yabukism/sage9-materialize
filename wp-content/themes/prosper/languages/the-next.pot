@@ -1,0 +1,863 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TheNext\n"
+"POT-Creation-Date: 2017-06-06 21:10+0600\n"
+"PO-Revision-Date: 2015-10-06 01:20+0600\n"
+"Last-Translator: wpeden.com <contact@wpeden.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:14
+msgid "404, Page not found!"
+msgstr ""
+
+#: ../404.php:16
+msgid ""
+"Nothing found here! Please use navigation above or search to find what you "
+"are looking for."
+msgstr ""
+
+#: ../admin/OptionFields.class.php:119
+msgid "Do Not Apply"
+msgstr ""
+
+#: ../admin/ThemeEngine.class.php:203
+msgid "Customize"
+msgstr ""
+
+#: ../admin/customizer-config.php:17
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/customizer-config.php:29
+msgid "Layouts"
+msgstr ""
+
+#: ../admin/customizer-config.php:34
+msgid "Typhography"
+msgstr ""
+
+#: ../admin/customizer-config.php:57 ../admin/customizer-config.php:975
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/customizer-config.php:64
+msgid "Header"
+msgstr ""
+
+#: ../admin/customizer-config.php:71
+msgid "Logo"
+msgstr ""
+
+#: ../admin/customizer-config.php:77
+msgid "Site Layout"
+msgstr ""
+
+#: ../admin/customizer-config.php:83
+msgid "Colors"
+msgstr ""
+
+#: ../admin/customizer-config.php:90
+msgid "Social Networks"
+msgstr ""
+
+#: ../admin/customizer-config.php:96
+msgid "Contact Info"
+msgstr ""
+
+#: ../admin/customizer-config.php:102
+msgid "Homepage Slider"
+msgstr ""
+
+#: ../admin/customizer-config.php:108
+msgid "Top Featured Pages"
+msgstr ""
+
+#: ../admin/customizer-config.php:114
+msgid "Call to Action"
+msgstr ""
+
+#: ../admin/customizer-config.php:120
+msgid "Features Section"
+msgstr ""
+
+#: ../admin/customizer-config.php:126
+msgid "Tabbed Section"
+msgstr ""
+
+#: ../admin/customizer-config.php:132
+msgid "Front / Blog Page Layout"
+msgstr ""
+
+#: ../admin/customizer-config.php:138
+msgid "Default Post Layout"
+msgstr ""
+
+#: ../admin/customizer-config.php:144
+msgid "Default Page Layout"
+msgstr ""
+
+#: ../admin/customizer-config.php:150
+msgid "Archive Page Layout"
+msgstr ""
+
+#: ../admin/customizer-config.php:156
+msgid "Generic Fonts"
+msgstr ""
+
+#: ../admin/customizer-config.php:162
+msgid "Post Fonts"
+msgstr ""
+
+#: ../admin/customizer-config.php:168
+msgid "Widget Fonts"
+msgstr ""
+
+#: ../admin/customizer-config.php:174
+msgid "Menu Fonts"
+msgstr ""
+
+#: ../admin/customizer-config.php:184
+msgid "Header Background"
+msgstr ""
+
+#: ../admin/customizer-config.php:191
+msgid "Site Logo"
+msgstr ""
+
+#: ../admin/customizer-config.php:198
+msgid "Logo for Footer"
+msgstr ""
+
+#: ../admin/customizer-config.php:205
+msgid "Layout Type"
+msgstr ""
+
+#: ../admin/customizer-config.php:218
+msgid "Navigation Style"
+msgstr ""
+
+#: ../admin/customizer-config.php:253
+msgid "Page Header Style"
+msgstr ""
+
+#: ../admin/customizer-config.php:294
+msgid "Color Scheme"
+msgstr ""
+
+#: ../admin/customizer-config.php:301
+msgid "Main Nav Background"
+msgstr ""
+
+#: ../admin/customizer-config.php:308
+msgid "Main Nav Color"
+msgstr ""
+
+#: ../admin/customizer-config.php:315
+msgid "DropDown Background"
+msgstr ""
+
+#: ../admin/customizer-config.php:322
+msgid "DropDown Text Color"
+msgstr ""
+
+#: ../admin/customizer-config.php:329
+msgid "DropDown Hover Background"
+msgstr ""
+
+#: ../admin/customizer-config.php:336
+msgid "Link Color"
+msgstr ""
+
+#: ../admin/customizer-config.php:343
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../admin/customizer-config.php:352
+msgid "Slider Category"
+msgstr ""
+
+#: ../admin/customizer-config.php:360 ../libs/prime-functions.php:630
+msgid "Number of Posts"
+msgstr ""
+
+#: ../admin/customizer-config.php:368 ../libs/prime-functions.php:646
+msgid "Featured Page 1"
+msgstr ""
+
+#: ../admin/customizer-config.php:375 ../libs/prime-functions.php:653
+msgid "Featured Page 2"
+msgstr ""
+
+#: ../admin/customizer-config.php:382 ../libs/prime-functions.php:660
+msgid "Featured Page 3"
+msgstr ""
+
+#: ../admin/customizer-config.php:389 ../libs/prime-functions.php:667
+msgid "Featured Page 4"
+msgstr ""
+
+#: ../admin/customizer-config.php:396 ../admin/customizer-config.php:438
+#: ../admin/customizer-config.php:509 ../libs/prime-functions.php:678
+#: ../libs/prime-functions.php:737
+msgid "Headline"
+msgstr ""
+
+#: ../admin/customizer-config.php:403 ../admin/customizer-config.php:516
+#: ../libs/menu-item-icon.php:203 ../libs/prime-functions.php:685
+msgid "Description"
+msgstr ""
+
+#: ../admin/customizer-config.php:410
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/customizer-config.php:417
+msgid "Button URL"
+msgstr ""
+
+#: ../admin/customizer-config.php:424
+msgid "Second Button Text"
+msgstr ""
+
+#: ../admin/customizer-config.php:431
+msgid "Second Button URL"
+msgstr ""
+
+#: ../admin/customizer-config.php:445
+msgid "Featured Image"
+msgstr ""
+
+#: ../admin/customizer-config.php:453 ../libs/prime-functions.php:692
+msgid "Feature Page 1"
+msgstr ""
+
+#: ../admin/customizer-config.php:460 ../libs/prime-functions.php:699
+msgid "Feature Page 2"
+msgstr ""
+
+#: ../admin/customizer-config.php:467 ../libs/prime-functions.php:706
+msgid "Feature Page 3"
+msgstr ""
+
+#: ../admin/customizer-config.php:474 ../libs/prime-functions.php:713
+msgid "Feature Page 4"
+msgstr ""
+
+#: ../admin/customizer-config.php:481 ../libs/prime-functions.php:720
+msgid "Feature Page 5"
+msgstr ""
+
+#: ../admin/customizer-config.php:488 ../libs/prime-functions.php:727
+msgid "Feature Page 6"
+msgstr ""
+
+#: ../admin/customizer-config.php:495
+msgid "Feature Page 7"
+msgstr ""
+
+#: ../admin/customizer-config.php:502
+msgid "Feature Page 8"
+msgstr ""
+
+#: ../admin/customizer-config.php:523 ../admin/customizer-config.php:531
+msgid "Post Category for First Tab"
+msgstr ""
+
+#: ../admin/customizer-config.php:539
+msgid "Post Category for Third Tab"
+msgstr ""
+
+#: ../admin/customizer-config.php:547 ../admin/customizer-config.php:592
+#: ../admin/customizer-config.php:637 ../admin/customizer-config.php:682
+msgid "Sidebar Layout"
+msgstr ""
+
+#: ../admin/customizer-config.php:554 ../admin/customizer-config.php:599
+#: ../admin/customizer-config.php:644 ../admin/customizer-config.php:689
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../admin/customizer-config.php:561 ../admin/customizer-config.php:606
+#: ../admin/customizer-config.php:651 ../admin/customizer-config.php:696
+msgid "Left Sidebar Width"
+msgstr ""
+
+#: ../admin/customizer-config.php:573 ../admin/customizer-config.php:618
+#: ../admin/customizer-config.php:663 ../admin/customizer-config.php:708
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../admin/customizer-config.php:580 ../admin/customizer-config.php:625
+#: ../admin/customizer-config.php:670 ../admin/customizer-config.php:715
+msgid "Right Sidebar Width"
+msgstr ""
+
+#: ../admin/customizer-config.php:728
+msgid "Header Font"
+msgstr ""
+
+#: ../admin/customizer-config.php:735
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:747
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:759
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:771
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:783
+msgid "Header Font Weight"
+msgstr ""
+
+#: ../admin/customizer-config.php:795
+msgid "Header Text Color"
+msgstr ""
+
+#: ../admin/customizer-config.php:804
+msgid "Body Font"
+msgstr ""
+
+#: ../admin/customizer-config.php:812
+msgid "Body Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:824
+msgid "Body Font Weight"
+msgstr ""
+
+#: ../admin/customizer-config.php:836
+msgid "Regular Text Color"
+msgstr ""
+
+#: ../admin/customizer-config.php:845
+msgid "Widget Title Font"
+msgstr ""
+
+#: ../admin/customizer-config.php:852
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:864
+msgid "Widget Title Font Weight"
+msgstr ""
+
+#: ../admin/customizer-config.php:877
+msgid "Widget Content Font"
+msgstr ""
+
+#: ../admin/customizer-config.php:884
+msgid "Widget Content Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:896
+msgid "Widget Content Font Weight"
+msgstr ""
+
+#: ../admin/customizer-config.php:910
+msgid "Menu Top Level Font"
+msgstr ""
+
+#: ../admin/customizer-config.php:917
+msgid "Menu Top Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:929
+msgid "Menu Top Font Weight"
+msgstr ""
+
+#: ../admin/customizer-config.php:943
+msgid "Menu Dropdown Font"
+msgstr ""
+
+#: ../admin/customizer-config.php:950
+msgid "Menu Dropdown Font Size"
+msgstr ""
+
+#: ../admin/customizer-config.php:962
+msgid "Menu Dropdown Font Weight"
+msgstr ""
+
+#: ../admin/customizer-config.php:983
+msgid "Facebook Profile / Page URL"
+msgstr ""
+
+#: ../admin/customizer-config.php:990
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: ../admin/customizer-config.php:997
+msgid "Google+ Profile / Page URL"
+msgstr ""
+
+#: ../admin/customizer-config.php:1004
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: ../admin/customizer-config.php:1011
+msgid "Linked In Profile URL"
+msgstr ""
+
+#: ../admin/customizer-config.php:1018
+msgid "Google Map Address"
+msgstr ""
+
+#: ../admin/customizer-config.php:1025
+msgid "Contact Address"
+msgstr ""
+
+#: ../admin/customizer-config.php:1032
+msgid "Phone"
+msgstr ""
+
+#: ../admin/customizer-config.php:1039
+msgid "Email"
+msgstr ""
+
+#: ../admin/customizer-config.php:1046
+msgid "Thank you message"
+msgstr ""
+
+#: ../comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:11
+msgid "Discussion"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: ../download-manager/user-profile/profile.php:42
+msgid "Downloads"
+msgstr ""
+
+#: ../download-manager/user-profile/profile.php:44
+msgid "Activities"
+msgstr ""
+
+#: ../download-manager/user-profile/profile.php:45
+msgid "Favourites"
+msgstr ""
+
+#: ../homepage-blocks/category-area.php:38
+msgid "Explore"
+msgstr ""
+
+#: ../homepage-blocks/category-area.php:39
+#, php-format
+msgid "%d Items"
+msgstr ""
+
+#: ../homepage-blocks/featured-items.php:28 ../libs/prime-functions.php:961
+msgid "Download"
+msgstr ""
+
+#: ../homepage-blocks/homepage-top.php:34
+msgid "Popular Tags:"
+msgstr ""
+
+#: ../homepage-blocks/new-items.php:7
+#: ../homepage-blocks/popular-products.php:7
+msgid "Browse all"
+msgstr ""
+
+#: ../homepage-slider.php:60
+msgid "Download Now"
+msgstr ""
+
+#: ../libs/Framework.class.php:83
+msgid "Search..."
+msgstr ""
+
+#: ../libs/menu-item-icon.php:112
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:116
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:157
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:166
+msgid "URL"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:173
+msgid "Navigation Label"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:179
+msgid "Title Attribute"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:186
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:191
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:197
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:205
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../libs/menu-item-icon.php:211
+msgid "Menu Icon"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:251
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:264
+msgid "Remove"
+msgstr ""
+
+#: ../libs/menu-item-icon.php:265
+msgid "Cancel"
+msgstr ""
+
+#: ../libs/prime-functions.php:60
+msgid "Add New Review"
+msgstr ""
+
+#: ../libs/prime-functions.php:61
+msgid "New Review"
+msgstr ""
+
+#: ../libs/prime-functions.php:62
+msgid "Edit Review"
+msgstr ""
+
+#: ../libs/prime-functions.php:63
+msgid "View Review"
+msgstr ""
+
+#: ../libs/prime-functions.php:64
+msgid "All Reviews"
+msgstr ""
+
+#: ../libs/prime-functions.php:65
+msgid "Search Reviews"
+msgstr ""
+
+#: ../libs/prime-functions.php:66
+msgid "Parent Reviews:"
+msgstr ""
+
+#: ../libs/prime-functions.php:67
+msgid "No Reviews found."
+msgstr ""
+
+#: ../libs/prime-functions.php:68
+msgid "No Reviews found in Trash."
+msgstr ""
+
+#: ../libs/prime-functions.php:95
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: ../libs/prime-functions.php:96
+msgid "New Pricing Table"
+msgstr ""
+
+#: ../libs/prime-functions.php:97
+msgid "Edit Pricing Table"
+msgstr ""
+
+#: ../libs/prime-functions.php:98
+msgid "View Pricing Table"
+msgstr ""
+
+#: ../libs/prime-functions.php:99
+msgid "All Pricing Tables"
+msgstr ""
+
+#: ../libs/prime-functions.php:100
+msgid "Search Pricing Tables"
+msgstr ""
+
+#: ../libs/prime-functions.php:101
+msgid "Parent Pricing Tables:"
+msgstr ""
+
+#: ../libs/prime-functions.php:102
+msgid "No Pricing Tables found."
+msgstr ""
+
+#: ../libs/prime-functions.php:103
+msgid "No Pricing Tables found in Trash."
+msgstr ""
+
+#: ../libs/prime-functions.php:254
+msgid "Single Package"
+msgstr ""
+
+#: ../libs/prime-functions.php:256
+msgid "Widgets in this area will be shown on product/item details page."
+msgstr ""
+
+#: ../libs/prime-functions.php:309
+msgid "Homepage"
+msgstr ""
+
+#: ../libs/prime-functions.php:318
+msgid "New Products"
+msgstr ""
+
+#: ../libs/prime-functions.php:326
+msgid "Featured Pages"
+msgstr ""
+
+#: ../libs/prime-functions.php:333
+msgid "Popuplar Products"
+msgstr ""
+
+#: ../libs/prime-functions.php:341
+msgid "Explore Categories"
+msgstr ""
+
+#: ../libs/prime-functions.php:348
+msgid "Our Team"
+msgstr ""
+
+#: ../libs/prime-functions.php:355
+msgid "Client Reviews"
+msgstr ""
+
+#: ../libs/prime-functions.php:362
+msgid "Call To Action"
+msgstr ""
+
+#: ../libs/prime-functions.php:374
+msgid "Hide New Products Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:381
+msgid "New Products Section Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:389 ../libs/prime-functions.php:449
+msgid "Product Category"
+msgstr ""
+
+#: ../libs/prime-functions.php:398
+msgid "All Products"
+msgstr ""
+
+#: ../libs/prime-functions.php:409
+msgid "Hide Featured Pages Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:416
+msgid "Featured Pages Section Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:424
+msgid "Featured Pages Section Intro"
+msgstr ""
+
+#: ../libs/prime-functions.php:434
+msgid "Hide Popupar Products Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:441
+msgid "Popupar Products Section Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:458
+msgid "All Popupar Products"
+msgstr ""
+
+#: ../libs/prime-functions.php:467
+msgid "Call To Action Text"
+msgstr ""
+
+#: ../libs/prime-functions.php:475
+msgid "Call To Action Button Link"
+msgstr ""
+
+#: ../libs/prime-functions.php:483
+msgid "Call To Action Button Label"
+msgstr ""
+
+#: ../libs/prime-functions.php:496
+msgid "Disable Categories Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:504
+msgid "Categories Section Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:512
+msgid "Featured Category #1"
+msgstr ""
+
+#: ../libs/prime-functions.php:521
+msgid "Featured Category #2"
+msgstr ""
+
+#: ../libs/prime-functions.php:530
+msgid "Featured Category #3"
+msgstr ""
+
+#: ../libs/prime-functions.php:539
+msgid "All Categories Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:547
+msgid "Disable Media Highlight Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:555
+msgid "Media Highlight Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:563
+msgid "Disable Stores Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:571
+msgid "Stores Section Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:579
+msgid "New Stores Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:587
+msgid "Featured Store Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:595
+msgid "Featured Store ID"
+msgstr ""
+
+#: ../libs/prime-functions.php:604
+msgid "Disable Featured Items Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:612
+msgid "Featured Items Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:621
+msgid "Featured Items Category"
+msgstr ""
+
+#: ../libs/prime-functions.php:744 ../libs/prime-functions.php:778
+#: ../libs/prime-functions.php:802 ../libs/prime-functions.php:828
+msgid "Sub Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:753
+msgid "Team Member #"
+msgstr ""
+
+#: ../libs/prime-functions.php:762
+msgid "Disable Reviews Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:770 ../libs/prime-functions.php:794
+#: ../libs/prime-functions.php:820
+msgid "Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:786
+msgid "Disable Pricing Table Section"
+msgstr ""
+
+#: ../libs/prime-functions.php:811
+msgid "Pricing Table (ID) #"
+msgstr ""
+
+#: ../libs/prime-functions.php:836
+msgid "Subscription Form Heading"
+msgstr ""
+
+#: ../libs/prime-functions.php:844
+msgid "Subscription Form Message"
+msgstr ""
+
+#: ../libs/prime-functions.php:957
+msgid "Buy Now @"
+msgstr ""
+
+#: ../libs/prime-functions.php:962
+msgid "Free"
+msgstr ""
+
+#: ../post-formats/content-aside.php:5 ../post-formats/content-audio.php:14
+#: ../post-formats/content-chat.php:12 ../post-formats/content-gallery.php:10
+#: ../post-formats/content-image.php:5 ../post-formats/content-link.php:17
+#: ../post-formats/content-quote.php:11 ../post-formats/content-video.php:14
+msgid "Posted on"
+msgstr ""
+
+#: ../post-formats/content-aside.php:5 ../post-formats/content-audio.php:14
+#: ../post-formats/content-chat.php:12 ../post-formats/content-gallery.php:10
+#: ../post-formats/content-image.php:5 ../post-formats/content-link.php:17
+#: ../post-formats/content-quote.php:11 ../post-formats/content-video.php:14
+msgid "Posted by"
+msgstr ""
+
+#: ../post-formats/content-aside.php:5 ../post-formats/content-audio.php:14
+#: ../post-formats/content-chat.php:12 ../post-formats/content-gallery.php:10
+#: ../post-formats/content-image.php:5 ../post-formats/content-link.php:17
+#: ../post-formats/content-quote.php:11 ../post-formats/content-video.php:14
+msgid "read more"
+msgstr ""
+
+#: ../post-formats/content-none.php:2 ../post-formats/content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search-templates/page.php:12 ../search-templates/post.php:11
+msgid "Nothing Found!"
+msgstr ""
+
+#: ../search-templates/page.php:13 ../search-templates/post.php:12
+msgid "Try Different Search Term"
+msgstr ""
+
+#: ../single.php:80
+msgid "Previous"
+msgstr ""
+
+#: ../single.php:82
+msgid "Next"
+msgstr ""

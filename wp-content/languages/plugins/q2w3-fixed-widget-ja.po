@@ -1,0 +1,183 @@
+# Translation of Plugins - Q2W3 Fixed Widget - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Q2W3 Fixed Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-20 14:50:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Q2W3 Fixed Widget - Stable (latest release)\n"
+
+#: q2w3-fixed-widget.php:393
+msgid "If MutationObserver disabled, plugin will use Refresh Interval to reflect page changes (version 4 behavior)"
+msgstr "MutationObserver が無効の時は、ページの変更を反映するのに更新間隔を使用します。（バージョン4時の動作）"
+
+#: q2w3-fixed-widget.php:393
+msgid "Disable MutationObserver:"
+msgstr "MutationObserver を無効にする: "
+
+#: q2w3-fixed-widget.php:353
+msgid "Note for cache plugin users. Don't forget to clear the cache after options change!"
+msgstr "キャッシュプラグインのユーザーへの注意。オプションの変更後にキャッシュをクリアすることを忘れないでください !"
+
+#: q2w3-fixed-widget.php:379
+msgid "Works the same way as Disable Width option."
+msgstr "幅の無効オプションと同じような動作をします。"
+
+#: q2w3-fixed-widget.php:379
+msgid "Disable Height:"
+msgstr "高さを無効化:"
+
+#: q2w3-fixed-widget.php:377
+msgid "Use this option to disable plugin on portable devices. When the browser screen width is less then specified value, the plugin is disabled!"
+msgstr ""
+"モバイル端末上でプラグインを無効にするには、このオプションを使用します。\n"
+"ブラウザの画面幅が指定された値より小さい場合、プラグインは無効になります。"
+
+#: q2w3-fixed-widget.php:377
+msgid "Disable Width:"
+msgstr "幅を無効化:"
+
+#: q2w3-fixed-widget.php:375
+msgid "Used only for compatibility with browsers without MutationObserver API support! Set 0 to completely disable."
+msgstr "MutationObserver API をサポートしていないブラウザーとの互換性のためにのみ使用します。0を指定するとこの機能が無効になります。"
+
+#: q2w3-fixed-widget.php:373
+msgid "Here you need to provide html tag id. The position of that html element will determine margin bottom value."
+msgstr "ここで html タグ ID を設定してください。その html 要素の位置は下マージンの値で決定します。"
+
+#. Author URI of the plugin/theme
+msgid "http://www.q2w3.ru/"
+msgstr "http://www.q2w3.ru/"
+
+#. Author of the plugin/theme
+msgid "Max Bond"
+msgstr "Max Bond"
+
+#. Description of the plugin/theme
+msgid "Fixes positioning of the selected widgets, when the page is scrolled down."
+msgstr "ページをスクロールダウンしたときに、選択したウィジェットの位置を修正します。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.q2w3.ru/q2w3-fixed-widget-wordpress-plugin/"
+msgstr "http://www.q2w3.ru/q2w3-fixed-widget-wordpress-plugin/"
+
+#. Plugin Name of the plugin/theme
+msgid "Q2W3 Fixed Widget"
+msgstr "Q2W3 Fixed Widget"
+
+#: q2w3-fixed-widget.php:411
+msgid "Russian (www.q2w3.ru)"
+msgstr "ロシア語 (www.q2w3.ru)"
+
+#: q2w3-fixed-widget.php:409
+msgid "English (wordpress.org)"
+msgstr "英語 (wordpress.org)"
+
+#: q2w3-fixed-widget.php:407
+msgid "Support forums:"
+msgstr "サポートフォーラム:"
+
+#: q2w3-fixed-widget.php:417
+msgid "RATE THE PLUGIN"
+msgstr "プラグインを評価する"
+
+#: q2w3-fixed-widget.php:401
+msgid "widget_display_callback hook priority:"
+msgstr "widget_display_callback フックの優先度: "
+
+#: q2w3-fixed-widget.php:399
+msgid "Enable this option only if you have problems with other scroll oriented javascript code"
+msgstr "ほかのスクロール向けの javascript コードと干渉した場合、このオプションを有効化してください。"
+
+#: q2w3-fixed-widget.php:399
+msgid "Use jQuery(window).load() hook:"
+msgstr "jQuery(window).load() hook を使用する: "
+
+#: q2w3-fixed-widget.php:397
+msgid "Enable this option for themes with responsive sidebar"
+msgstr "レスポンシブのサイドバーが含まれているテーマのために、このオプションを有効化してください"
+
+#: q2w3-fixed-widget.php:397
+msgid "Inherit widget width from the parent container:"
+msgstr "ウィジェットの幅を親コンテナーから継承: "
+
+#: q2w3-fixed-widget.php:395
+msgid "Enable this option for debug purposes (frontend problems and etc.)"
+msgstr "デバッグの為にこの設定を有効化する (フロントエンドの問題等)"
+
+#: q2w3-fixed-widget.php:395
+msgid "Enable plugin for logged in users only:"
+msgstr "ログインユーザーにのみプラグインを有効化する:"
+
+#: q2w3-fixed-widget.php:391
+msgid "Auto fix widget id:"
+msgstr "自動修正ウィジット ID: "
+
+#: q2w3-fixed-widget.php:385
+msgid "Custom HTML IDs (each one on a new line):"
+msgstr "カスタム HTML ID (一行ずつ記入してください): "
+
+#: q2w3-fixed-widget.php:375
+msgid "milliseconds"
+msgstr "ミリ秒"
+
+#: q2w3-fixed-widget.php:375
+msgid "Refresh interval:"
+msgstr "更新間隔:"
+
+#: q2w3-fixed-widget.php:373
+msgid "Stop ID:"
+msgstr "停止 ID:"
+
+#: q2w3-fixed-widget.php:371
+msgid "Margin Bottom:"
+msgstr "下マージン: "
+
+#: q2w3-fixed-widget.php:369 q2w3-fixed-widget.php:371
+#: q2w3-fixed-widget.php:377 q2w3-fixed-widget.php:379
+msgid "px"
+msgstr "px"
+
+#: q2w3-fixed-widget.php:369
+msgid "Margin Top:"
+msgstr "上マージン: "
+
+#: q2w3-fixed-widget.php:355
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: q2w3-fixed-widget.php:327
+msgid "Settings saved."
+msgstr "設定が保存されました。"
+
+#: q2w3-fixed-widget.php:319
+msgid "Help for developer"
+msgstr "開発者向けのヘルプ"
+
+#: q2w3-fixed-widget.php:317
+msgid "Help for users"
+msgstr "ユーザー向けのヘルプ"
+
+#: q2w3-fixed-widget.php:315
+msgid "Custom IDs"
+msgstr "カスタム ID"
+
+#: q2w3-fixed-widget.php:313
+msgid "Compatibility"
+msgstr "互換性"
+
+#: q2w3-fixed-widget.php:311
+msgid "General Options"
+msgstr "一般設定"
+
+#: q2w3-fixed-widget.php:219 q2w3-fixed-widget.php:323
+msgid "Fixed Widget Options"
+msgstr "Fixed Widget 設定"
+
+#: q2w3-fixed-widget.php:185
+msgid "Fixed widget"
+msgstr "Fixed widget"
