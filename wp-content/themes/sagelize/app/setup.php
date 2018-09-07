@@ -29,7 +29,7 @@ add_action('after_setup_theme', function () {
      */
     add_theme_support('soil-clean-up');
     add_theme_support('soil-jquery-cdn');
-    add_theme_support('soil-nav-walker');
+    //add_theme_support('soil-navwalker');
     add_theme_support('soil-nice-search');
     add_theme_support('soil-relative-urls');
 
@@ -44,7 +44,15 @@ add_action('after_setup_theme', function () {
      * @link https://developer.wordpress.org/reference/functions/register_nav_menus/
      */
     register_nav_menus([
-        'primary_navigation' => __('Primary Navigation', 'sage')
+        'primary_navigation' => __('Primary Navigation', 'sage'),
+        'mobile_navigation' => __('Mobile Navigation', 'sage'),
+        'footer_navigation' => __('Footer Navigation', 'sage'),
+        'top_navigation1' => __('Topbar Navigation1', 'sage'),
+        'top_navigation2' => __('Topbar Navigation2', 'sage'),
+        'top_navigation3' => __('Topbar Navigation3', 'sage'),
+        'top_navigation4' => __('Topbar Navigation4', 'sage'),
+        'top_navigation5' => __('Topbar Navigation5', 'sage'),
+        'top_navigation6' => __('Topbar Navigation6', 'sage')
     ]);
 
     /**
@@ -52,6 +60,10 @@ add_action('after_setup_theme', function () {
      * @link https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
      */
     add_theme_support('post-thumbnails');
+    add_image_size( 'archive-thumbnail', 286, 286, true ); // sidebar+3カラムサムネイル archive
+    add_image_size( 'card-search-thumbnail', 294, 294, true ); // home+4カラムサムネイル archive
+    add_image_size( 'single-main-thumbnail', 824, 341, true ); // single page top image
+    add_image_size( 'tooltip-thumbnail', 150, 150, true );
 
     /**
      * Enable HTML5 markup support
@@ -79,7 +91,7 @@ add_action('widgets_init', function () {
     $config = [
         'before_widget' => '<section class="widget %1$s %2$s">',
         'after_widget'  => '</section>',
-        'before_title'  => '<h3>',
+        'before_title'  => '<h3 class="widget-title">',
         'after_title'   => '</h3>'
     ];
     register_sidebar([
@@ -87,8 +99,36 @@ add_action('widgets_init', function () {
         'id'            => 'sidebar-primary'
     ] + $config);
     register_sidebar([
-        'name'          => __('Footer', 'sage'),
-        'id'            => 'sidebar-footer'
+        'name'          => __('Single', 'sage'),
+        'id'            => 'sidebar-single'
+    ] + $config);
+    register_sidebar([
+        'name'          => __('Timeline', 'sage'),
+        'id'            => 'sidebar-timeline'
+    ] + $config);
+    register_sidebar([
+        'name'          => __('Download', 'sage'),
+        'id'            => 'sidebar-download'
+    ] + $config);
+    register_sidebar([
+        'name'          => __('Footer1', 'sage'),
+        'id'            => 'sidebar-footer1'
+    ] + $config);
+    register_sidebar([
+        'name'          => __('Footer2', 'sage'),
+        'id'            => 'sidebar-footer2'
+    ] + $config);
+    register_sidebar([
+        'name'          => __('Footer3', 'sage'),
+        'id'            => 'sidebar-footer3'
+    ] + $config);
+    register_sidebar([
+        'name'          => __('Footer4', 'sage'),
+        'id'            => 'sidebar-footer4'
+    ] + $config);
+    register_sidebar([
+        'name'          => __('History-widget', 'sage'),
+        'id'            => 'history-widget'
     ] + $config);
 });
 
